@@ -2,22 +2,21 @@
 URL: /2018/05/01/may-day-jiulonghu
 author: 赵化冰
 categories:
-- Life
+- Research
 date: "2018-05-01"
 hide-in-home: true
 image: /img/2018-05-01-may-day-jiulonghu/snowmountain.jpg
 layout: post
 published: true
-subtitle: 2018五一甘堡藏寨，九龙湖自驾游记
+subtitle: Projects
 tags:
-- Travel
-title: 川西秘境探险
+- research
+title: Research
 ---
 
-## 寻浮云牧场不遇
+## Project 1
 
-五一节前的一周内，几个朋友就纷纷坐不住了，一个二个不再安心上班，开始在微信群里讨论过节要到哪里耍。
-大家思来想去，最后决定还是去理县方向。因为根据多年自驾的经验，只要出了汶川，沿途都是风景。
+Fun, fun, fun
 
 <!--more-->
 放假第一天和第二天上午老婆加班，我在家里陪女儿做作业，提前把车油加好，准备路上的衣物。第二天中午老婆上完班，我迫不及待开着小狮子就向都汶高速出发了。虽然加班耽误了一天半，但我们这次也算错峰出行了，一路上畅通无阻，心情自然也比较愉快。 开车1个多点小时就赶到了汶川，这时朋友一家刚在汶川县城吃完午饭，我们在出汶川不远，桃坪羌寨附近胜利会师了。
